@@ -1,6 +1,6 @@
 # Brain Tumor Classification
 
-This repository contains code for a machine learning model for image classification. The model is trained on brain tumor images and is capable of classifying images into four categories: glioma tumor, meningioma tumor, no tumor, and pituitary tumor.
+This project aims to classify brain tumor images into different categories using deep learning techniques. The goal is to assist medical professionals in accurately diagnosing brain tumors based on MRI scans. The model is trained on brain tumor images and is capable of classifying images into four categories: glioma tumor, meningioma tumor, no tumor, and pituitary tumor.
 
 ## Data Preparation
 
